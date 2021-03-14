@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ciyabox
-- 📫 How to reach me [ciyabox](https://play.google.com/store/apps/dev?id=6128508124214547444&hl=tr)
+- 📫 You can reach me at [ciyabox](https://play.google.com/store/apps/dev?id=6128508124214547444&hl=tr)
 
 <!--
 - 👋 Hi, I’m @ciyabox
